@@ -1,6 +1,14 @@
 # iSay
 iSay is designed for tourists who need an efficient and easy way to communicate in the country they are visiting. Often, tourists will visit a country and they just a simple way to have access to everyday phrases such as “Where is the bathroom?” or “What are the directions to __?”. iSay makes obtaining these phrases an easy process all while maintaining that the translations are correct and within context.
 
+## Origins
+
+iSay was our submission for the 2015 Technovation Challenge. I did all the programming in MIT app inventor while embedding SQL for the purposes of storing and save data. Due to the limitations of App Inventor, a source code can not be provided.
+
+!
+
+
+## Full App Description
 All users will first be asked to make an account in iSay. Then, they fill out information like their native language, where they currently live, and what languages they often speak. Users can then choose which language they wish to have their phrase translated into. Then, they simply enter the keyword they want translated in the search bar and view translations if their question has already been asked, similar questions, or wait until someone answers their question and translates their phrase. Users can also choose how many responses they want to see in each page of their feed. 
 
 One function iSay has is that users can vote thumbs up or thumbs down on certain responses and in a feed, it will always be ordered with the most thumbs up responses at the top. 
