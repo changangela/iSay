@@ -5,7 +5,7 @@ iSay is designed for tourists who need an efficient and easy way to communicate 
 
 iSay was our submission for the 2015 Technovation Challenge. I did all the programming in MIT app inventor while embedding SQL for the purposes of storing and save data. Due to the limitations of App Inventor, a source code can not be provided.
 
-!
+![Profile](https://raw.githubusercontent.com/changangela/iSay/pictures/10373782_10153196376357534_2049591639918000078_n.jpg) 
 
 
 ## Full App Description
