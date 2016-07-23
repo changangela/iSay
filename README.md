@@ -5,8 +5,10 @@ iSay is designed for tourists who need an efficient and easy way to communicate 
 
 iSay was our submission for the 2015 Technovation Challenge. I did all the programming in MIT app inventor while embedding SQL for the purposes of storing and save data. Due to the limitations of App Inventor, a source code can not be provided.
 
-![Profile](https://raw.githubusercontent.com/changangela/iSay/pictures/10373782_10153196376357534_2049591639918000078_n.jpg) 
-
+<p>
+  <img src="profile.jpg" width="350"/>
+  <img src="posts.jpg" width="350"/>
+</p>
 
 ## Full App Description
 All users will first be asked to make an account in iSay. Then, they fill out information like their native language, where they currently live, and what languages they often speak. Users can then choose which language they wish to have their phrase translated into. Then, they simply enter the keyword they want translated in the search bar and view translations if their question has already been asked, similar questions, or wait until someone answers their question and translates their phrase. Users can also choose how many responses they want to see in each page of their feed. 
