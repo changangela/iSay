@@ -11,6 +11,9 @@ iSay was our submission for the 2015 Technovation Challenge. I did all the progr
   <img src="search.jpg" width="250"/>
 </p>
 
+## Installation
+
+
 ## Full App Description
 All users will first be asked to make an account in iSay. Then, they fill out information like their native language, where they currently live, and what languages they often speak. Users can then choose which language they wish to have their phrase translated into. Then, they simply enter the keyword they want translated in the search bar and view translations if their question has already been asked, similar questions, or wait until someone answers their question and translates their phrase. Users can also choose how many responses they want to see in each page of their feed. 
 
