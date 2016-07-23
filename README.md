@@ -3,7 +3,7 @@ iSay is designed for tourists who need an efficient and easy way to communicate 
 
 ## Origins
 
-iSay was our submission for the 2015 Technovation Challenge. I did all the programming in MIT app inventor while embedding SQL for the purposes of storing and save data. The source file is iSay.aia and can be viewed using ![MIT App Invetor](http://ai2.appinventor.mit.edu/).
+iSay was our submission for the 2015 Technovation Challenge. I did all the programming in MIT app inventor while embedding SQL for the purposes of storing and save data. The source file is iSay.aia and can be viewed using <a href="appinventor.mit.edu/">MIT App Inventor</a>.
 
 <p>
   <img src="my_isay.jpg" width="250"/>
