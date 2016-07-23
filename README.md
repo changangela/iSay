@@ -6,8 +6,9 @@ iSay is designed for tourists who need an efficient and easy way to communicate 
 iSay was our submission for the 2015 Technovation Challenge. I did all the programming in MIT app inventor while embedding SQL for the purposes of storing and save data. Due to the limitations of App Inventor, a source code can not be provided.
 
 <p>
-  <img src="profile.jpg" width="350"/>
-  <img src="posts.jpg" width="350"/>
+  <img src="profile.jpg" width="200"/>
+  <img src="posts.jpg" width="200"/>
+  <img src="search.jpg" width="200"/>
 </p>
 
 ## Full App Description
