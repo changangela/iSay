@@ -7,7 +7,7 @@ iSay was our submission for the 2015 Technovation Challenge. I did all the progr
 
 <p>
   <img src="profile.jpg" width="200"/>
-  <img src="posts.jpg" width="200"/>
+  <img src="feeds.jpg" width="200"/>
   <img src="search.jpg" width="200"/>
 </p>
 
