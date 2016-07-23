@@ -1,6 +1,12 @@
 # iSay
 iSay is designed for tourists who need an efficient and easy way to communicate in the country they are visiting. Often, tourists will visit a country and they just a simple way to have access to everyday phrases such as “Where is the bathroom?” or “What are the directions to __?”. iSay makes obtaining these phrases an easy process all while maintaining that the translations are correct and within context.
 
+<p align="center">
+  <img src="my_isay.jpg" width="250"/>
+  <img src="feeds.jpg" width="250"/>
+  <img src="search.jpg" width="250"/>
+</p>
+
 ## Origins
 
 iSay was our submission for the 2015 Technovation Challenge. I did all the programming in MIT app inventor while embedding SQL for the purposes of storing and save data. The source file is iSay.aia and can be viewed using MIT App Inventor.
@@ -8,18 +14,14 @@ iSay was our submission for the 2015 Technovation Challenge. I did all the progr
 ## Installation
 The iSay.apk file can be downloaded onto any Android device and installed.
 
-## Pitch Video
-[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+## Video Description
+[![Alt text for your video](http://img.youtube.com/vi/VehMtEDnYCs/0.jpg)](https://www.youtube.com/watch?v=VehMtEDnYCs)
 
-## How it Works
-[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+## Video Demonstration
+[![Alt text for your video](http://img.youtube.com/vi/x05gi79nOpY/0.jpg)](https://www.youtube.com/watch?v=x05gi79nOpY)
 
 ## Full App Description
-<p align="center">
-  <img src="my_isay.jpg" width="250"/>
-  <img src="feeds.jpg" width="250"/>
-  <img src="search.jpg" width="250"/>
-</p>
+
 All users will first be asked to make an account in iSay. Then, they fill out information like their native language, where they currently live, and what languages they often speak. Users can then choose which language they wish to have their phrase translated into. Then, they simply enter the keyword they want translated in the search bar and view translations if their question has already been asked, similar questions, or wait until someone answers their question and translates their phrase. Users can also choose how many responses they want to see in each page of their feed. 
 
 One function iSay has is that users can vote thumbs up or thumbs down on certain responses and in a feed, it will always be ordered with the most thumbs up responses at the top. 
