@@ -17,12 +17,16 @@ The iSay.apk file can be downloaded onto any Android device and installed.
 ## Video Description
 
 <div align="center">
-  [![Alt text for your video](http://img.youtube.com/vi/VehMtEDnYCs/0.jpg)](https://www.youtube.com/watch?v=VehMtEDnYCs)
+  <a href = "https://www.youtube.com/watch?v=VehMtEDnYCs">
+  <img src ="http://img.youtube.com/vi/VehMtEDnYCs/0.jpg"/>
+  </a>
 </div>
 
 ## Video Demonstration
 <div align="center">
-  [![Alt text for your video](http://img.youtube.com/vi/x05gi79nOpY/0.jpg)](https://www.youtube.com/watch?v=x05gi79nOpY)
+  <a href="https://www.youtube.com/watch?v=x05gi79nOpY">
+  <img src = "http://img.youtube.com/vi/x05gi79nOpY/0.jpg"/>
+  </a>
 </div>
 
 ## Full App Description
