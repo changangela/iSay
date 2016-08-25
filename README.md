@@ -14,18 +14,18 @@ iSay was our submission for the 2015 Technovation Challenge. I did all the progr
 ## Installation
 The iSay.apk file can be downloaded onto any Android device and installed.
 
+## Video Demonstration
+<div align="center">
+  <a href="https://youtu.be/1n4N8WoSsxI">
+  <img src = "http://img.youtube.com/vi/1n4N8WoSsxI/0.jpg"/>
+  </a>
+</div>
+
 ## Video Description
 
 <div align="center">
   <a href = "https://youtu.be/yk1x42tOg64">
   <img src ="http://img.youtube.com/vi/yk1x42tOg64/0.jpg"/>
-  </a>
-</div>
-
-## Video Demonstration
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=x05gi79nOpY">
-  <img src = "http://img.youtube.com/vi/x05gi79nOpY/0.jpg"/>
   </a>
 </div>
 
